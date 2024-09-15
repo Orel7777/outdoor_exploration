@@ -21,7 +21,9 @@ npm start
 ```
 
 ## Live Demo 🌐
-[Check out the live version here](#) <!-- (https://66d60c7be190003b7860efc7--nature-travel-world.netlify.app/) -->
+## Live Demo 🌐
+[Check out the live version here](https://66d60c7be190003b7860efc7--nature-travel-world.netlify.app/)
+
 
 ## Contributing 🤝
 Pull requests and issue reports are welcome.
